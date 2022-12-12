@@ -8,15 +8,22 @@ It will be helpful to know each other between you and us based on the source cod
 
 So, please show us your performance as backend program developer.
 
+
 ## [Coding Test]
 
-Step1. Extract 3 routes information randomly from Seoul bus routes by interfacing with government data portal.
-       (For the detail, please refer to below link.)
-       https://www.data.go.kr/data/15081232/fileData.do?recommendDataYn=Y
+### Step1. 
+   Extract 3 routes information randomly from Seoul bus routes by interfacing with government data portal.
+   (For the detail, please refer to below link.)
+   https://www.data.go.kr/data/15081232/fileData.do?recommendDataYn=Y
 
-Step2. Pull out 3 bus stations with the most scheduled buses to arrive in 5 minutes among extracted routes information from step 1.
 
-Step3. Arrange bus information (bus number, plate number, and ETA (estimate time of arrival) sorting by fastest arriving bus regardless of station in pulled data from step2.
+### Step2. 
+    Pull out 3 bus stations with the most scheduled buses to arrive in 5 minutes among extracted routes information from step 1.
+
+
+### Step3. 
+    Arrange bus information (bus number, plate number, and ETA (estimate time of arrival) sorting by fastest arriving bus regardless of station in pulled data from step2.
+
 
 ## [Requirement]
 
