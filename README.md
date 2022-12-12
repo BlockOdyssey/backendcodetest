@@ -13,7 +13,8 @@ So, please show us your performance as backend program developer.
 
 ### Step1. 
    Extract 3 routes information randomly from Seoul bus routes by interfacing with government data portal.
-   (For the detail, please refer to below link.)
+   
+   For the detail, please refer to below link.
    https://www.data.go.kr/data/15081232/fileData.do?recommendDataYn=Y
 
 
