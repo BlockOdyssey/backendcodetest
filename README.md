@@ -9,6 +9,7 @@ It will be helpful to know each other between you and us based on the source cod
 So, please show us your performance as backend program developer.
 
 
+
 ## [Coding Test]
 
 ### Step1. 
@@ -25,6 +26,7 @@ So, please show us your performance as backend program developer.
 
 ### Step3. 
     Arrange bus information (bus number, plate number, and ETA (estimate time of arrival) sorting by fastest arriving bus regardless of station in pulled data from step2.
+
 
 
 ## [Requirement]
