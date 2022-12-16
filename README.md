@@ -17,7 +17,7 @@ So, please show us your performance as backend program developer.
    
    For the detail, please refer to below link.
    
-   https://www.data.go.kr/data/15081232/fileData.do?recommendDataYn=Y
+   https://www.data.go.kr/index.do
 
 
 ### Step2. 
