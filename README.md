@@ -13,7 +13,7 @@ So, please show us your performance as backend program developer.
 ## [Coding Test]
 
 ### Step1. 
-   Extract 3 routes information randomly from Seoul bus routes by interfacing with government data portal.
+   Extract 3 routes information randomly from Seoul bus routes by interfacing with government data portal on a real time basis.
    
    For the detail, please refer to below link.
    
